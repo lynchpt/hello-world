@@ -8,3 +8,6 @@ This is the edit called for in the part of the tutorial where branches, commits,
 ### sub *italics* ###
 
 Going to test commit comments
+
+Can I tie this commit to close an item?
+
