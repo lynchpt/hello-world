@@ -6,3 +6,5 @@ This is the edit called for in the part of the tutorial where branches, commits,
 ## Testing some Formatting ##
 
 ### sub *italics* ###
+
+Going to test commit comments
