@@ -11,3 +11,5 @@ Going to test commit comments
 
 Can I tie this commit to close an item?
 
+This will be the resolution of the third issue
+
